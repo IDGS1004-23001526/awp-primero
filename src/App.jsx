@@ -10,7 +10,6 @@ function App() {
   return (
     <>
       <div>
-        <h1>Cris le gustan los trapos</h1>
         <a href="https://vite.dev" target="_blank">
           <img src={appLogo} className="logo" alt="mi-pwa logo" />
         </a>
@@ -24,6 +23,7 @@ function App() {
           count is {count}
         </button>
         <p>
+          <h1>Cris le gustan los trapos</h1>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
