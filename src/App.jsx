@@ -23,7 +23,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          <h1>Cris le gustan ver las pistolas de los trans</h1>
+          <h1>Hola, aqui esta mi cambio ! :)</h1>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
