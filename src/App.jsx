@@ -10,6 +10,7 @@ function App() {
   return (
     <>
       <div>
+        <h1>Cris le gustan los trapos</h1>
         <a href="https://vite.dev" target="_blank">
           <img src={appLogo} className="logo" alt="mi-pwa logo" />
         </a>
